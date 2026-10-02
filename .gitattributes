@@ -1,0 +1,9 @@
+* text=auto
+*.py text eol=lf
+*.scala text eol=lf
+*.sql text eol=lf
+*.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+# Frozen hashes require byte-preserving checkout.
+outputs/network/*.json -text whitespace=cr-at-eol

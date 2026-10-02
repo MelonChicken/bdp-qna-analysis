@@ -1,0 +1,3634 @@
+{
+  "snapshot": "2024-04",
+  "scope": "network excluding stackoverflow.com and meta.stackoverflow.com",
+  "partial": false,
+  "omitted_sites": [],
+  "expected_sites": 362,
+  "sites": {
+    "3dprinting.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "3dprinting.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 60,
+      "baseline_active_months": 27,
+      "source_sha1": "cdb725a37a44ffc67ecaeaad004b2df7d6a429de"
+    },
+    "3dprinting.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "3dprinting.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2555,
+      "baseline_active_months": 36,
+      "source_sha1": "63e6fcfe0589d2a2718170d84e59944af198a28e"
+    },
+    "academia.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "academia.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 203,
+      "baseline_active_months": 35,
+      "source_sha1": "7e018e842f4b0bc92ac24ce1968d0f087817590a"
+    },
+    "academia.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "academia.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 12004,
+      "baseline_active_months": 36,
+      "source_sha1": "8d923dfb2d9caa11c491e2f025fa666928cc949b"
+    },
+    "ai.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "ai.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 133,
+      "baseline_active_months": 32,
+      "source_sha1": "2589e899f8005f83c87e5bfc6ed6c9ad54aaa1e2"
+    },
+    "ai.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "ai.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 6573,
+      "baseline_active_months": 36,
+      "source_sha1": "2cae1919a212491f95721d319883b76d7bbc864e"
+    },
+    "android.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "android.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 71,
+      "baseline_active_months": 29,
+      "source_sha1": "1678f0449c1f9c4504686d8ae509d68774e905f9"
+    },
+    "android.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "android.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 8597,
+      "baseline_active_months": 36,
+      "source_sha1": "60bd1ea5793511b57d3c62e164ab2e8fb294e80e"
+    },
+    "anime.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "anime.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 100,
+      "baseline_active_months": 31,
+      "source_sha1": "b8bd57d7bb7cb371506fcc4aab6f3aa64481205f"
+    },
+    "anime.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "anime.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1949,
+      "baseline_active_months": 36,
+      "source_sha1": "da98fa69dad950af2c9894fca098568edc3b8362"
+    },
+    "apple.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "apple.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 202,
+      "baseline_active_months": 36,
+      "source_sha1": "957f9a03c4bc48094a38efe659920d2d6cefafba"
+    },
+    "apple.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "apple.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 26884,
+      "baseline_active_months": 36,
+      "source_sha1": "36caabdbb49e5bf15ba5b5164f9c9eda96dd6d2b"
+    },
+    "arduino.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "arduino.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 54,
+      "baseline_active_months": 26,
+      "source_sha1": "66e0b6c77a17cea52a4960befb6072aee4c87646"
+    },
+    "arduino.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "arduino.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 7927,
+      "baseline_active_months": 36,
+      "source_sha1": "1a1b40ff9f6a00ce0dd80bcd9e746ba01cb94add"
+    },
+    "askubuntu.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "askubuntu.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 82696,
+      "baseline_active_months": 36,
+      "source_sha1": "15102a3bfa4578cd67ed34df8952ed5064184c7a"
+    },
+    "astronomy.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "astronomy.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 155,
+      "baseline_active_months": 35,
+      "source_sha1": "dcb6739b7a0b20df64a9e9c17e4ce260aaa18b66"
+    },
+    "astronomy.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "astronomy.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 5272,
+      "baseline_active_months": 36,
+      "source_sha1": "b24d272b48675d16d88f175f643568777bb59a76"
+    },
+    "aviation.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "aviation.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 184,
+      "baseline_active_months": 36,
+      "source_sha1": "914dff5351ee8209aec67ce31abbf77a7f437158"
+    },
+    "aviation.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "aviation.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 7791,
+      "baseline_active_months": 36,
+      "source_sha1": "940bc2a544964a54a395fd9a8b607bf153e4550b"
+    },
+    "avp.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "avp.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 18,
+      "baseline_active_months": 13,
+      "source_sha1": "a7965e8da238bdf4c395e6de81810be9683a9ac0"
+    },
+    "avp.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "avp.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2433,
+      "baseline_active_months": 36,
+      "source_sha1": "c48a08962934479d4836cb6679114dbbd1785b5a"
+    },
+    "beer.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "beer.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 12,
+      "baseline_active_months": 8,
+      "source_sha1": "a70fad1b3dbe04648e973761707bc54edebf75e8"
+    },
+    "beer.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "beer.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 207,
+      "baseline_active_months": 35,
+      "source_sha1": "f5b1c4675ef3837773e6431e3f2524f894e41562"
+    },
+    "bicycles.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "bicycles.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 41,
+      "baseline_active_months": 21,
+      "source_sha1": "4be53dd8ba7d1787b4dc8771b8be7bd530d0aa23"
+    },
+    "bicycles.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "bicycles.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 5565,
+      "baseline_active_months": 36,
+      "source_sha1": "012a236ea46153b08f3715d04253068e36545e01"
+    },
+    "bioacoustics.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "bioacoustics.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 0,
+      "baseline_active_months": 0,
+      "source_sha1": "fa1005b1f82f71360a63789bc7293cb0fab0ee76"
+    },
+    "bioacoustics.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "bioacoustics.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 0,
+      "baseline_active_months": 0,
+      "source_sha1": "f3f06b439e9e45cdb3496558f565e34697a07bde"
+    },
+    "bioinformatics.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "bioinformatics.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 38,
+      "baseline_active_months": 25,
+      "source_sha1": "fc08eb8182f870766c521ff26c9e347c913b00b1"
+    },
+    "bioinformatics.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "bioinformatics.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2802,
+      "baseline_active_months": 36,
+      "source_sha1": "f7551414ccc9c7b8fd67c9f95f7dd14e37ff68c7"
+    },
+    "biology.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "biology.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 142,
+      "baseline_active_months": 35,
+      "source_sha1": "cb2f373265bedc79e5271b0fc414cddb04931e79"
+    },
+    "biology.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "biology.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 6002,
+      "baseline_active_months": 36,
+      "source_sha1": "dfa04aed8232e1d1d5542195a1ea679302f82058"
+    },
+    "bitcoin.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "bitcoin.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 40,
+      "baseline_active_months": 23,
+      "source_sha1": "5d7d403cfcc024320e680f4266a95e9f197132f9"
+    },
+    "bitcoin.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "bitcoin.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 6846,
+      "baseline_active_months": 36,
+      "source_sha1": "c29cde254403617de0d1bda099bf2207033e1708"
+    },
+    "blender.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "blender.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 126,
+      "baseline_active_months": 36,
+      "source_sha1": "1f5566b1c09a322279092c2d9a45c198c7e3951e"
+    },
+    "blender.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "blender.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 43583,
+      "baseline_active_months": 36,
+      "source_sha1": "f00c5ddf6658edb50a77e26afb2bffae5b84807f"
+    },
+    "boardgames.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "boardgames.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 69,
+      "baseline_active_months": 30,
+      "source_sha1": "f86a81e11199bdf7e9b7975130ce05d6467c18d5"
+    },
+    "boardgames.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "boardgames.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2879,
+      "baseline_active_months": 36,
+      "source_sha1": "f3eff0f81d569b6106c0618831423f28801df719"
+    },
+    "bricks.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "bricks.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 42,
+      "baseline_active_months": 22,
+      "source_sha1": "dc5f7715b442a078abd52b7a55d2fca981b7788e"
+    },
+    "bricks.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "bricks.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1343,
+      "baseline_active_months": 36,
+      "source_sha1": "0504015491776ee645cdf5f4425891eca9282aff"
+    },
+    "buddhism.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "buddhism.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 97,
+      "baseline_active_months": 32,
+      "source_sha1": "763b6b8b6d0d5896d21fd40946e1ca1bc17fcb9a"
+    },
+    "buddhism.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "buddhism.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2269,
+      "baseline_active_months": 36,
+      "source_sha1": "d46f4ada763473351896f4c06b9ae73521770523"
+    },
+    "cardano.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "cardano.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 34,
+      "baseline_active_months": 7,
+      "source_sha1": "b206d162a920dad6df0d063b696bf9d21f9ffc4b"
+    },
+    "cardano.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "cardano.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 1128,
+      "baseline_active_months": 9,
+      "source_sha1": "38c76dc8741323ab052d4fcb05dfae8c8f9e6fb7"
+    },
+    "chemistry.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "chemistry.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 253,
+      "baseline_active_months": 36,
+      "source_sha1": "6c1ce9cfc963590f17ce1ec339b034da39a72181"
+    },
+    "chemistry.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "chemistry.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 13118,
+      "baseline_active_months": 36,
+      "source_sha1": "4a92641bf3543aad3233b9f8affb351802a097db"
+    },
+    "chess.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "chess.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 129,
+      "baseline_active_months": 36,
+      "source_sha1": "7fd925855fd9b0a11c8ce053f64b7e4f8ef32070"
+    },
+    "chess.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "chess.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2878,
+      "baseline_active_months": 36,
+      "source_sha1": "edd8ed2300c46e24e9ae88eca00683ab9836709e"
+    },
+    "chinese.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "chinese.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 140,
+      "baseline_active_months": 24,
+      "source_sha1": "1f0dd868cb538022bb503feb83a1c328ebf342ce"
+    },
+    "chinese.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "chinese.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 3404,
+      "baseline_active_months": 36,
+      "source_sha1": "4e9c5b94e4d8df71df7025ec460ad01ebb6406dc"
+    },
+    "christianity.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "christianity.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 179,
+      "baseline_active_months": 35,
+      "source_sha1": "b018de344468e38f6fa3d2590b4dfe01c58d9c4a"
+    },
+    "christianity.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "christianity.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 3241,
+      "baseline_active_months": 36,
+      "source_sha1": "d61d2c4a25dcb87f3dc5794f44f760cafac9bb54"
+    },
+    "civicrm.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "civicrm.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 5,
+      "baseline_active_months": 5,
+      "source_sha1": "f713488b49ee303546b52b0e9a34449dc0e97860"
+    },
+    "civicrm.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "civicrm.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 4415,
+      "baseline_active_months": 36,
+      "source_sha1": "0f4444fe20749865b6a12a967e7812c9879fc43d"
+    },
+    "codegolf.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "codegolf.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 348,
+      "baseline_active_months": 36,
+      "source_sha1": "b226450eef4683a529d6e30da40023a76fc61af6"
+    },
+    "codegolf.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "codegolf.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2483,
+      "baseline_active_months": 36,
+      "source_sha1": "844227e92be247e12addb4c676cea5c87762307a"
+    },
+    "codereview.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "codereview.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 241,
+      "baseline_active_months": 35,
+      "source_sha1": "3dc046db89a168503dde8c810f23d42dd7da77af"
+    },
+    "codereview.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "codereview.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 16912,
+      "baseline_active_months": 36,
+      "source_sha1": "97225c019752395a1753051370dcfa3075048def"
+    },
+    "coffee.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "coffee.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 13,
+      "baseline_active_months": 9,
+      "source_sha1": "6cf49cfc37ba6b6397a5d37e6c04642ab7984b47"
+    },
+    "coffee.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "coffee.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 319,
+      "baseline_active_months": 36,
+      "source_sha1": "7bba222b2092a6586c946330e893f7f985a79b53"
+    },
+    "cogsci.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "cogsci.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 72,
+      "baseline_active_months": 30,
+      "source_sha1": "f879190c7224e69bc4effc5b3a573b876f6f00f4"
+    },
+    "cogsci.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "cogsci.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1758,
+      "baseline_active_months": 36,
+      "source_sha1": "d79859f52091d2635b32daacd53c42f9ff6e4c0b"
+    },
+    "computergraphics.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "computergraphics.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 24,
+      "baseline_active_months": 16,
+      "source_sha1": "65e5f39a1deee2e492611ef55610b9696877ec7f"
+    },
+    "computergraphics.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "computergraphics.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1236,
+      "baseline_active_months": 36,
+      "source_sha1": "601801ecb6729fbf84c5782938aa6115865c96ae"
+    },
+    "conlang.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "conlang.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 15,
+      "baseline_active_months": 13,
+      "source_sha1": "191ef991d2428c9de498df72742fe3071a03d7b5"
+    },
+    "conlang.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "conlang.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 183,
+      "baseline_active_months": 34,
+      "source_sha1": "721272aa0caabe02c68919d1a504e99f440581c1"
+    },
+    "cooking.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "cooking.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 83,
+      "baseline_active_months": 32,
+      "source_sha1": "e474768cd083fe4f08e52b065717e50de71d98c9"
+    },
+    "cooking.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "cooking.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 5082,
+      "baseline_active_months": 36,
+      "source_sha1": "c9f780daa9a58cc81a698ce8ae9402e964670d22"
+    },
+    "craftcms.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "craftcms.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 3,
+      "baseline_active_months": 3,
+      "source_sha1": "b8b514da5bd228ec4ea0dc000ef4cc36a45266fd"
+    },
+    "craftcms.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "craftcms.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 3093,
+      "baseline_active_months": 36,
+      "source_sha1": "6903813e6385fb4404aa44911b4ffbc2522f72c1"
+    },
+    "crafts.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "crafts.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 46,
+      "baseline_active_months": 24,
+      "source_sha1": "cd4a395f9aae0459a04c0b63023582f6ed207d34"
+    },
+    "crafts.stackexchange.com": {
+      "domain_group": "B",
+      "is_meta": false,
+      "parent_site": "crafts.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 810,
+      "baseline_active_months": 36,
+      "source_sha1": "a0e208aac68829bf4cdd4b98ee60f87efc5de109"
+    },
+    "crypto.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "crypto.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 131,
+      "baseline_active_months": 36,
+      "source_sha1": "6d2186a2b5aeae1a059dcc36d94411d7bf8a8b4f"
+    },
+    "crypto.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "crypto.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 8246,
+      "baseline_active_months": 36,
+      "source_sha1": "69a935374a5fb174b7c9e8e4f1136e7ec49e08f0"
+    },
+    "cs.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "cs.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 88,
+      "baseline_active_months": 32,
+      "source_sha1": "530bf594e280ec8d2f822bf91dd3005a0cf108fc"
+    },
+    "cs.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "cs.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 14562,
+      "baseline_active_months": 36,
+      "source_sha1": "49532884a22f81512d929e04962722e298d0b0e2"
+    },
+    "cseducators.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "cseducators.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 17,
+      "baseline_active_months": 14,
+      "source_sha1": "991c051a9343184d320a25232bed09463e7e16d2"
+    },
+    "cseducators.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "cseducators.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 394,
+      "baseline_active_months": 36,
+      "source_sha1": "889e470d4118bcbb1498e5159af0fc1ee183ce45"
+    },
+    "cstheory.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "cstheory.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 17,
+      "baseline_active_months": 14,
+      "source_sha1": "d5051e379487dc2760661418ac07cedc75a71e90"
+    },
+    "cstheory.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "cstheory.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1804,
+      "baseline_active_months": 36,
+      "source_sha1": "86412f5706531a8b07477b95e73b6fa785d3f22c"
+    },
+    "datascience.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "datascience.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 77,
+      "baseline_active_months": 28,
+      "source_sha1": "cec80cfd717c50ba57c912cf1dca3a01201ad5fb"
+    },
+    "datascience.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "datascience.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 17589,
+      "baseline_active_months": 36,
+      "source_sha1": "b1f088cd1cb31568c35bf63ef0a67b361fe4d5aa"
+    },
+    "dba.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "dba.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 95,
+      "baseline_active_months": 31,
+      "source_sha1": "5eb597cff901f9830704b0dd9020b993b84232e6"
+    },
+    "dba.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "dba.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 23763,
+      "baseline_active_months": 36,
+      "source_sha1": "1534244d87f57f22e2d2a38a03de907a7c86e217"
+    },
+    "devops.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "devops.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 36,
+      "baseline_active_months": 13,
+      "source_sha1": "5c555662015e6f5300050cbffc62a2d2b947423b"
+    },
+    "devops.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "devops.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2440,
+      "baseline_active_months": 36,
+      "source_sha1": "f147fb407d7aedcee909f3a7aeacc4f7c204620a"
+    },
+    "diy.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "diy.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 100,
+      "baseline_active_months": 34,
+      "source_sha1": "210654dbb5d9dbcb3f235c448e40a5009d5581a1"
+    },
+    "diy.stackexchange.com": {
+      "domain_group": "B",
+      "is_meta": false,
+      "parent_site": "diy.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 26227,
+      "baseline_active_months": 36,
+      "source_sha1": "1cb90b29a402aadcb6d4855e07bfac755ba380fc"
+    },
+    "drones.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "drones.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 61,
+      "baseline_active_months": 9,
+      "source_sha1": "87a7d3d44b1cba4359c8944dbe47cbb9f1782bd3"
+    },
+    "drones.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "drones.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 655,
+      "baseline_active_months": 21,
+      "source_sha1": "542f2a7fc610a752957dbd987b3f8072aabba876"
+    },
+    "drupal.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "drupal.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 41,
+      "baseline_active_months": 22,
+      "source_sha1": "c835809d3ccd6c5dbccb46ee38c3c1a923c0e4f1"
+    },
+    "drupal.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "drupal.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 8520,
+      "baseline_active_months": 36,
+      "source_sha1": "7b8faff8647c23bbea98ce4f572409fdaf2c3db1"
+    },
+    "dsp.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "dsp.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 48,
+      "baseline_active_months": 25,
+      "source_sha1": "d3e56828be1d4c44aeb6bebdcf0f66f86280d933"
+    },
+    "dsp.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "dsp.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 7995,
+      "baseline_active_months": 36,
+      "source_sha1": "13d8238a72b69a6f0c095d20d0a246351143e276"
+    },
+    "earthscience.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "earthscience.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 96,
+      "baseline_active_months": 31,
+      "source_sha1": "f961551bace378cb8c3ecebe2a4acb03a9a6c035"
+    },
+    "earthscience.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "earthscience.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2095,
+      "baseline_active_months": 36,
+      "source_sha1": "262e78e9c89256eb16d97d9cf0e61e8a772c9613"
+    },
+    "ebooks.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "ebooks.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 11,
+      "baseline_active_months": 8,
+      "source_sha1": "01d82bc19cb70e02bb9118e0dc73364818103676"
+    },
+    "ebooks.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "ebooks.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 240,
+      "baseline_active_months": 36,
+      "source_sha1": "e931771d6181060e1bc6a6cdc5b53c8d8bfc9731"
+    },
+    "economics.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "economics.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 104,
+      "baseline_active_months": 31,
+      "source_sha1": "e1d5e45380b3b22c64ab5155089d5b2e1b013e44"
+    },
+    "economics.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "economics.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 5562,
+      "baseline_active_months": 36,
+      "source_sha1": "a5655e9e825a55ad719c428a7bd2585b7319c0ec"
+    },
+    "electronics.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "electronics.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 248,
+      "baseline_active_months": 36,
+      "source_sha1": "f3b6852a5d18a7dc4c68cf7f14d733769a4cbbb2"
+    },
+    "electronics.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "electronics.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 57351,
+      "baseline_active_months": 36,
+      "source_sha1": "e04f8e8725207785759aa5b72cd9bba9a9b6d0d5"
+    },
+    "elementaryos.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "elementaryos.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 14,
+      "baseline_active_months": 10,
+      "source_sha1": "ecb6e8c12779d667bf6d34849c49a33da85aa419"
+    },
+    "elementaryos.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "elementaryos.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2710,
+      "baseline_active_months": 36,
+      "source_sha1": "0808f57188e7337ef9753b9aa9abd47c6d743cec"
+    },
+    "ell.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "ell.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 233,
+      "baseline_active_months": 36,
+      "source_sha1": "039c6455930a222b93159aa097fb4483fccfc4a5"
+    },
+    "ell.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "ell.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 37581,
+      "baseline_active_months": 36,
+      "source_sha1": "3855ec28cdd82bda934bc95d46ebd00f9d5f57fa"
+    },
+    "emacs.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "emacs.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 28,
+      "baseline_active_months": 18,
+      "source_sha1": "10624470b25c7c1e87a400f835a63f2dae6b69cd"
+    },
+    "emacs.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "emacs.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 7787,
+      "baseline_active_months": 36,
+      "source_sha1": "bcbb27a96fd8b43fb688640fb307f81bc20f2cfb"
+    },
+    "engineering.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "engineering.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 25,
+      "baseline_active_months": 18,
+      "source_sha1": "300adaf816ea85f52b01820a908babd0a4f0a365"
+    },
+    "engineering.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "engineering.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 5935,
+      "baseline_active_months": 36,
+      "source_sha1": "e7f7751acdc313f8f36896c0ac7a4deb95a9fbc5"
+    },
+    "english.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "english.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 426,
+      "baseline_active_months": 36,
+      "source_sha1": "da282467d48c2227581077b9b6f033f2d533eaf5"
+    },
+    "english.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "english.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 24639,
+      "baseline_active_months": 36,
+      "source_sha1": "dd57316459c26d6d8170f1282f121dce0ac813e5"
+    },
+    "eosio.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "eosio.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 11,
+      "baseline_active_months": 7,
+      "source_sha1": "eaff0bd94be99f5be71101bf62284637a7b8663e"
+    },
+    "eosio.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "eosio.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 904,
+      "baseline_active_months": 36,
+      "source_sha1": "7a3a768fd2fc4d1ece6711c1bccfc94c40703cd3"
+    },
+    "es.meta.stackoverflow.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "es.stackoverflow.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 534,
+      "baseline_active_months": 36,
+      "source_sha1": "eceaea1d9eeb5f1b32ae4c7122d8ee2a34d57326"
+    },
+    "es.stackoverflow.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "es.stackoverflow.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 87923,
+      "baseline_active_months": 36,
+      "source_sha1": "39cf71a63420a882e63bce41920f2b6e066cbdca"
+    },
+    "esperanto.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "esperanto.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 14,
+      "baseline_active_months": 12,
+      "source_sha1": "3d676f907cac19f60e7c804e18d7406a7d589b30"
+    },
+    "esperanto.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "esperanto.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 386,
+      "baseline_active_months": 36,
+      "source_sha1": "f041e4de1eede19582e42469805c3c9e892d5d7e"
+    },
+    "ethereum.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "ethereum.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 33,
+      "baseline_active_months": 22,
+      "source_sha1": "1013aae48be3e4408a082854c07faf8a308980f1"
+    },
+    "ethereum.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "ethereum.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 15851,
+      "baseline_active_months": 36,
+      "source_sha1": "db0a07af45929512cd2b7e67c52a499bee506d8f"
+    },
+    "expatriates.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "expatriates.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 26,
+      "baseline_active_months": 15,
+      "source_sha1": "394d1f07c101f92c43031aa6b9d4d779f9d9d88a"
+    },
+    "expatriates.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "expatriates.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2160,
+      "baseline_active_months": 36,
+      "source_sha1": "6c4de468112a81e4e2347fd75194c2587fa9f1fc"
+    },
+    "expressionengine.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "expressionengine.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 9,
+      "baseline_active_months": 6,
+      "source_sha1": "b73ea6527fc77b430de12416c9219e2ce2c40c24"
+    },
+    "expressionengine.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "expressionengine.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 490,
+      "baseline_active_months": 36,
+      "source_sha1": "8c09d8503d2a29654e0c59c8045afa3d6c81d9cf"
+    },
+    "fitness.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "fitness.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 39,
+      "baseline_active_months": 24,
+      "source_sha1": "9dc79bb45ed319746baabe301845cdcfda2569ee"
+    },
+    "fitness.stackexchange.com": {
+      "domain_group": "B",
+      "is_meta": false,
+      "parent_site": "fitness.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1509,
+      "baseline_active_months": 36,
+      "source_sha1": "fc5d462adc3b30e4c127cfac164a1b9e3e933e2d"
+    },
+    "freelancing.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "freelancing.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 24,
+      "baseline_active_months": 12,
+      "source_sha1": "8f1ccb9aaa77d92db8ee156ad18b8589e3358ea5"
+    },
+    "freelancing.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "freelancing.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 314,
+      "baseline_active_months": 36,
+      "source_sha1": "6f56ae25c2f7f70689a35d4fd9888f59d4e59195"
+    },
+    "french.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "french.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 39,
+      "baseline_active_months": 24,
+      "source_sha1": "79710eeefa4e36d4b9c49c2272ac6d4043cb32ad"
+    },
+    "french.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "french.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 3752,
+      "baseline_active_months": 36,
+      "source_sha1": "c8adbfa55402f4b67f819b8af34f810ff1b75d28"
+    },
+    "gamedev.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "gamedev.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 71,
+      "baseline_active_months": 27,
+      "source_sha1": "100396d8e2d9d03cd3a36462e5022c95c9e9c37a"
+    },
+    "gamedev.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "gamedev.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 9721,
+      "baseline_active_months": 36,
+      "source_sha1": "5e6986f238bef9499804f3338bbdf8fce8cfc9a3"
+    },
+    "gaming.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "gaming.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 531,
+      "baseline_active_months": 36,
+      "source_sha1": "5adedaf1fa4c959c0df92e959611f25ec77a82db"
+    },
+    "gaming.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "gaming.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 12816,
+      "baseline_active_months": 36,
+      "source_sha1": "b40ac2c5c832c5d68069ff46d301b998cdcd50f7"
+    },
+    "gardening.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "gardening.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 30,
+      "baseline_active_months": 14,
+      "source_sha1": "7574790f88e205b6bf75074459b27762d6605255"
+    },
+    "gardening.stackexchange.com": {
+      "domain_group": "B",
+      "is_meta": false,
+      "parent_site": "gardening.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 5305,
+      "baseline_active_months": 36,
+      "source_sha1": "718db7040d0b608b1c969d4630d8bb95db87eec5"
+    },
+    "genai.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "genai.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 0,
+      "baseline_active_months": 0,
+      "source_sha1": "cc171e19ffc0cbf5c92cf7b68352537b1d6ca844"
+    },
+    "genai.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "genai.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 0,
+      "baseline_active_months": 0,
+      "source_sha1": "97e42cdf06261083d8ee8eb8f15deb3a402c3bb2"
+    },
+    "genealogy.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "genealogy.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 46,
+      "baseline_active_months": 23,
+      "source_sha1": "3b312e5a10ef5ab71724600d665150aa01ad217c"
+    },
+    "genealogy.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "genealogy.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 859,
+      "baseline_active_months": 36,
+      "source_sha1": "892cecdcf3876a7d3dd5ec66c9d6f39c83b0e612"
+    },
+    "german.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "german.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 70,
+      "baseline_active_months": 29,
+      "source_sha1": "2e6ba48e11068b1088d244186620f32f2e0b3c1c"
+    },
+    "german.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "german.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 4118,
+      "baseline_active_months": 36,
+      "source_sha1": "1b347881e73aadf649322062283b5311ad9b7a44"
+    },
+    "gis.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "gis.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 105,
+      "baseline_active_months": 33,
+      "source_sha1": "8afecabbdfff393c87c1f88bb1a83ebc8f7b40ac"
+    },
+    "gis.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "gis.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 39487,
+      "baseline_active_months": 36,
+      "source_sha1": "c5290ef9c4e2d30597c666230f45b5f87670f647"
+    },
+    "graphicdesign.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "graphicdesign.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 77,
+      "baseline_active_months": 29,
+      "source_sha1": "726347099f4aaaedae3bae5ebe5391586bf9d6df"
+    },
+    "graphicdesign.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "graphicdesign.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 7563,
+      "baseline_active_months": 36,
+      "source_sha1": "34e5729a16f65a1021f32190f9ac013026677088"
+    },
+    "ham.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "ham.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 39,
+      "baseline_active_months": 20,
+      "source_sha1": "52495c84daa4cf73177bb3dcf8ff9387824de532"
+    },
+    "ham.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "ham.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1630,
+      "baseline_active_months": 36,
+      "source_sha1": "af699bd0bf5153d6030e4f0ee215bd2b811a0582"
+    },
+    "hardwarerecs.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "hardwarerecs.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 38,
+      "baseline_active_months": 20,
+      "source_sha1": "bd6ad213ae44445121706851159ca1dd18ba5a03"
+    },
+    "hardwarerecs.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "hardwarerecs.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1246,
+      "baseline_active_months": 36,
+      "source_sha1": "92827a6ba8bd76d59b66a08214eb952bed164091"
+    },
+    "health.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "health.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 121,
+      "baseline_active_months": 33,
+      "source_sha1": "e382159ae75082bed0fc93fc7fa5346256194571"
+    },
+    "health.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "health.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2305,
+      "baseline_active_months": 36,
+      "source_sha1": "c8ddc7fb5481df3aa35d9ca95d1ff1baf407e060"
+    },
+    "hermeneutics.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "hermeneutics.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 116,
+      "baseline_active_months": 34,
+      "source_sha1": "0c0452e5a3761a3667b75d61c84f113b7cc8d33c"
+    },
+    "hermeneutics.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "hermeneutics.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 5481,
+      "baseline_active_months": 36,
+      "source_sha1": "47b2377fb6bdc3c73ffdd30f012beae473b3a108"
+    },
+    "hinduism.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "hinduism.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 274,
+      "baseline_active_months": 35,
+      "source_sha1": "166853d18fb3441c57036a481e8561b71be6cf4f"
+    },
+    "hinduism.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "hinduism.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 5931,
+      "baseline_active_months": 36,
+      "source_sha1": "89da4b9004bf112e61f799a21841ab4bcbb14d5b"
+    },
+    "history.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "history.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 166,
+      "baseline_active_months": 34,
+      "source_sha1": "0e3e13d839c2bfe03f013dda90ac875a81bc41b1"
+    },
+    "history.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "history.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 3681,
+      "baseline_active_months": 36,
+      "source_sha1": "2ed9d93ae25401e2df3d8fb62463ae0830a3a681"
+    },
+    "homebrew.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "homebrew.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 20,
+      "baseline_active_months": 15,
+      "source_sha1": "bf13a976260023c96050b196fbf0cf9c15a1bdb1"
+    },
+    "homebrew.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "homebrew.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 622,
+      "baseline_active_months": 36,
+      "source_sha1": "c4e2a2ffeca7fcf2a1f43f5581888b6be6b12d62"
+    },
+    "hsm.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "hsm.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 35,
+      "baseline_active_months": 24,
+      "source_sha1": "aff88a656c3a501e6e6997d9e3c33c07ad5c91e1"
+    },
+    "hsm.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "hsm.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1440,
+      "baseline_active_months": 36,
+      "source_sha1": "7cfbbd9bc17b125cfb20aa8e089ca7491257f1e2"
+    },
+    "interpersonal.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "interpersonal.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 163,
+      "baseline_active_months": 29,
+      "source_sha1": "891726566cb8656983ea8385b34352b7dba0ab37"
+    },
+    "interpersonal.stackexchange.com": {
+      "domain_group": "B",
+      "is_meta": false,
+      "parent_site": "interpersonal.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1077,
+      "baseline_active_months": 36,
+      "source_sha1": "7c66edc73cba69c0eafc80567ed1bb5e3c177c93"
+    },
+    "iot.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "iot.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 17,
+      "baseline_active_months": 10,
+      "source_sha1": "8dfd6a46b5c1a1613c5af626c667c8099e5c281e"
+    },
+    "iot.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "iot.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 867,
+      "baseline_active_months": 36,
+      "source_sha1": "0e09bfaedc997b36ae048bf7c2f151a9dc5e94d2"
+    },
+    "iota.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "iota.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 10,
+      "baseline_active_months": 7,
+      "source_sha1": "96eb6560c597b6c3fbe7a5b60c961e109c952c50"
+    },
+    "iota.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "iota.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 200,
+      "baseline_active_months": 36,
+      "source_sha1": "1ab41a473e0d8aebe15817c1e3969b56a38ff08a"
+    },
+    "islam.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "islam.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 52,
+      "baseline_active_months": 25,
+      "source_sha1": "b7ae8814b8b2ee36a66e0dec268e4b136ecb9efc"
+    },
+    "islam.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "islam.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 3954,
+      "baseline_active_months": 36,
+      "source_sha1": "0fa2bd594f6fe0dab309baaf08001b101a1c3850"
+    },
+    "italian.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "italian.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 28,
+      "baseline_active_months": 19,
+      "source_sha1": "17a9cee36bac14d274e8382009f9065e4b36e17f"
+    },
+    "italian.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "italian.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1010,
+      "baseline_active_months": 36,
+      "source_sha1": "95f9116b77d6406093e2ed28e3923586e46b5176"
+    },
+    "ja.meta.stackoverflow.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "ja.stackoverflow.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 316,
+      "baseline_active_months": 35,
+      "source_sha1": "a5ea686679015c141acfb18cbdb5ba49211b25ae"
+    },
+    "ja.stackoverflow.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "ja.stackoverflow.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 9987,
+      "baseline_active_months": 36,
+      "source_sha1": "9585321d29a7c7f3ed4a79e5de4bb7b7281c3475"
+    },
+    "japanese.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "japanese.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 155,
+      "baseline_active_months": 35,
+      "source_sha1": "44634a9534d8901198674ad71f6626ec1b988386"
+    },
+    "japanese.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "japanese.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 7595,
+      "baseline_active_months": 36,
+      "source_sha1": "6d322bd6436ae2b59b68c7a4e810556e5db21285"
+    },
+    "joomla.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "joomla.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 23,
+      "baseline_active_months": 17,
+      "source_sha1": "c19dca2f15fab8f0252d4cf9bca08b2759c64e7b"
+    },
+    "joomla.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "joomla.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1421,
+      "baseline_active_months": 36,
+      "source_sha1": "c1d7b06746380cfa36f55205d9df6e7e4082b320"
+    },
+    "judaism.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "judaism.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 156,
+      "baseline_active_months": 33,
+      "source_sha1": "fd8a09392b86b8be7a2099873a4b10bb164cfca4"
+    },
+    "judaism.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "judaism.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 8145,
+      "baseline_active_months": 36,
+      "source_sha1": "6bf8cb211910dbe4146e162bbe1ce95fb1b0043d"
+    },
+    "korean.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "korean.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 13,
+      "baseline_active_months": 11,
+      "source_sha1": "38c00b3b364f7575e19fb2a556ef7f49bdc08629"
+    },
+    "korean.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "korean.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 657,
+      "baseline_active_months": 36,
+      "source_sha1": "0f56d8ad7d4c453d34b91cc713b68466c34c96a3"
+    },
+    "langdev.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "langdev.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 0,
+      "baseline_active_months": 0,
+      "source_sha1": "06ad0a6d06e219a5470f2ecd153aaf20381036c2"
+    },
+    "langdev.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "langdev.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 0,
+      "baseline_active_months": 0,
+      "source_sha1": "130ac3c4fa57a50958de41dd6e2049da343975f2"
+    },
+    "languagelearning.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "languagelearning.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 38,
+      "baseline_active_months": 25,
+      "source_sha1": "1d7586d3d6fae80d2e095c6733d72e4ff0c7e2ca"
+    },
+    "languagelearning.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "languagelearning.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 422,
+      "baseline_active_months": 36,
+      "source_sha1": "5b7267cb735468786711c0e5351aa5d1879572c9"
+    },
+    "latin.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "latin.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 61,
+      "baseline_active_months": 30,
+      "source_sha1": "99933680952fca2615d7e8cad43c7f82d25d1572"
+    },
+    "latin.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "latin.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2390,
+      "baseline_active_months": 36,
+      "source_sha1": "3a43ec9641d83d1884e4eb8205da14cc47c1a523"
+    },
+    "law.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "law.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 204,
+      "baseline_active_months": 35,
+      "source_sha1": "4c08ecc3562fd35a35b7110c76b0ef930faa25f1"
+    },
+    "law.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "law.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 10751,
+      "baseline_active_months": 36,
+      "source_sha1": "85e7e30eb8062113077a9c9ac92b32ede3d50a96"
+    },
+    "lifehacks.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "lifehacks.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 20,
+      "baseline_active_months": 14,
+      "source_sha1": "b5d1db01cd6ce44c43a47aab76c1330cea7d53b3"
+    },
+    "lifehacks.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "lifehacks.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 633,
+      "baseline_active_months": 36,
+      "source_sha1": "ae57007eae454f72a699de79177a1da9228dac4b"
+    },
+    "linguistics.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "linguistics.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 79,
+      "baseline_active_months": 29,
+      "source_sha1": "fbba58ccaede3af1efb63fe9bd9862c21d62165c"
+    },
+    "linguistics.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "linguistics.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2948,
+      "baseline_active_months": 36,
+      "source_sha1": "74652f65b599405448c974de93f2a6e8e7a2fbce"
+    },
+    "literature.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "literature.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 114,
+      "baseline_active_months": 34,
+      "source_sha1": "09f68aa43ebeacea04aaf2c99805488da5e9fcf1"
+    },
+    "literature.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "literature.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2780,
+      "baseline_active_months": 36,
+      "source_sha1": "f136c5a66f928f0ab45cca2075f33c6af4660f6c"
+    },
+    "magento.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "magento.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 66,
+      "baseline_active_months": 21,
+      "source_sha1": "2b8fd2922291b524ede68cab947ca588cd7deaa4"
+    },
+    "magento.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "magento.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 28689,
+      "baseline_active_months": 36,
+      "source_sha1": "f507026e04eb980e9f022436c78f743e519e9b80"
+    },
+    "martialarts.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "martialarts.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 38,
+      "baseline_active_months": 22,
+      "source_sha1": "781f97a2420fb09cc503788760e980dad55b3f7e"
+    },
+    "martialarts.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "martialarts.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 594,
+      "baseline_active_months": 36,
+      "source_sha1": "4750ac50f9a3e480ecbc30f9e46a8feb6107a82c"
+    },
+    "materials.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "materials.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 120,
+      "baseline_active_months": 20,
+      "source_sha1": "6e73b40ea746d268a110109e0e55d0940024b511"
+    },
+    "materials.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "materials.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 1864,
+      "baseline_active_months": 21,
+      "source_sha1": "65629ad0cd8d852960f78e4b4d610b023a52fc1f"
+    },
+    "math.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "math.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 1517,
+      "baseline_active_months": 36,
+      "source_sha1": "42c9d06cee176cd2ee95e313de28b16b5c368d7f"
+    },
+    "math.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "math.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 431584,
+      "baseline_active_months": 36,
+      "source_sha1": "6e40030ea91a180fbadb1cf1edfea075994ab1ce"
+    },
+    "matheducators.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "matheducators.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 39,
+      "baseline_active_months": 21,
+      "source_sha1": "b1bf075849a6ecc68909835f3ab259adab58efa3"
+    },
+    "matheducators.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "matheducators.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 930,
+      "baseline_active_months": 36,
+      "source_sha1": "e8caf57e4778af786dbbdf3ac338fa1902ecf7d5"
+    },
+    "mathematica.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "mathematica.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 90,
+      "baseline_active_months": 30,
+      "source_sha1": "38fd9971bc70e8a5762ba4cdc8ca7140dd733fc3"
+    },
+    "mathematica.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "mathematica.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 23881,
+      "baseline_active_months": 36,
+      "source_sha1": "35d90eae0557f51630a7e90a4738454460151976"
+    },
+    "mathoverflow.net": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "mathoverflow.net",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 33366,
+      "baseline_active_months": 36,
+      "source_sha1": "ff443752dabe0b64c7b3091c1f9b68a45ed595ab"
+    },
+    "mechanics.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "mechanics.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 32,
+      "baseline_active_months": 19,
+      "source_sha1": "cfeafca1792d6180498aadf349b0fc5293c5913b"
+    },
+    "mechanics.stackexchange.com": {
+      "domain_group": "B",
+      "is_meta": false,
+      "parent_site": "mechanics.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 6502,
+      "baseline_active_months": 36,
+      "source_sha1": "82df6cb784dc09331473bd0fef44e9984fc77d63"
+    },
+    "meta.askubuntu.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "askubuntu.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 545,
+      "baseline_active_months": 36,
+      "source_sha1": "8c3c3e72ed136e71b750edd64e9e38167c4cb510"
+    },
+    "meta.mathoverflow.net": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "mathoverflow.net",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 371,
+      "baseline_active_months": 36,
+      "source_sha1": "18bde17a32b36c5aad00f845cf90797dc2d7baba"
+    },
+    "meta.serverfault.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "serverfault.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 118,
+      "baseline_active_months": 33,
+      "source_sha1": "c2940c8362550cd205f37079d0ffbea8ac081164"
+    },
+    "meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": null,
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 9215,
+      "baseline_active_months": 36,
+      "source_sha1": "3c5bcc0e4a362ae6e7034be3949b43f1b691b06f"
+    },
+    "meta.superuser.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "superuser.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 426,
+      "baseline_active_months": 36,
+      "source_sha1": "f30b1e19f8b72ce5570c1636c99d83b8bf40c6ca"
+    },
+    "moderators.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "moderators.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 14,
+      "baseline_active_months": 11,
+      "source_sha1": "715f21ab2979e86d1f7d4ca2df76b1fcf9151089"
+    },
+    "moderators.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "moderators.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 62,
+      "baseline_active_months": 29,
+      "source_sha1": "0a11a8c38eb51d4c0e31a2c8e512ececefe529b8"
+    },
+    "monero.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "monero.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 11,
+      "baseline_active_months": 8,
+      "source_sha1": "89ea7bb85e06047b404bd52a1d217821415227eb"
+    },
+    "monero.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "monero.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1081,
+      "baseline_active_months": 36,
+      "source_sha1": "5c5315126ee4dd8323e7045ecceb80158d043b67"
+    },
+    "money.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "money.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 153,
+      "baseline_active_months": 35,
+      "source_sha1": "6025e4300425024b691924c39349565e79e0246f"
+    },
+    "money.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "money.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 11649,
+      "baseline_active_months": 36,
+      "source_sha1": "2cf6e40ec7e58fc052f81d471776465001df4f99"
+    },
+    "movies.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "movies.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 153,
+      "baseline_active_months": 34,
+      "source_sha1": "6e4b999b75bf9be19c475f58a544aa7489ecce84"
+    },
+    "movies.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "movies.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 4615,
+      "baseline_active_months": 36,
+      "source_sha1": "90805c810ef6b55da9b837db892577bf1f65c13d"
+    },
+    "music.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "music.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 251,
+      "baseline_active_months": 36,
+      "source_sha1": "170e1c37cd8e1a3673cc0a225ebbbdd825db9a31"
+    },
+    "music.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "music.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 8274,
+      "baseline_active_months": 36,
+      "source_sha1": "abf1dbabb871241a3482bdcfe0f00870fb1e99a4"
+    },
+    "musicfans.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "musicfans.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 91,
+      "baseline_active_months": 24,
+      "source_sha1": "c7f7be22e1ae3e73defb97d456923b47d5cd376d"
+    },
+    "musicfans.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "musicfans.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 636,
+      "baseline_active_months": 36,
+      "source_sha1": "d507b5bef518d023eef928b2f47a0b828626e842"
+    },
+    "mythology.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "mythology.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 11,
+      "baseline_active_months": 11,
+      "source_sha1": "4f351906d09b7a414f00b35787fd65b0c3892f31"
+    },
+    "mythology.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "mythology.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 508,
+      "baseline_active_months": 36,
+      "source_sha1": "1e6345a53d89039788d4c83184ea321485ef3420"
+    },
+    "networkengineering.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "networkengineering.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 71,
+      "baseline_active_months": 31,
+      "source_sha1": "c1eb4804964307f9a6223778f3a35c0a1e15e111"
+    },
+    "networkengineering.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "networkengineering.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 4027,
+      "baseline_active_months": 36,
+      "source_sha1": "ab20beef46a4f778a2ef4a96d6eb5fbfa0ad2b4e"
+    },
+    "opendata.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "opendata.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 27,
+      "baseline_active_months": 16,
+      "source_sha1": "739ac077b2d0966267d3d7ac626284172a380b70"
+    },
+    "opendata.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "opendata.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1348,
+      "baseline_active_months": 36,
+      "source_sha1": "07fad92c3852ce15f1dec40abeedb674e4c506e7"
+    },
+    "opensource.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "opensource.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 28,
+      "baseline_active_months": 17,
+      "source_sha1": "b06ff6cae9064b5b7648e8152cb338305657d5c0"
+    },
+    "opensource.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "opensource.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1769,
+      "baseline_active_months": 36,
+      "source_sha1": "e4518dca43e00c64f9e8fad7a2c8861fc0b5b8e2"
+    },
+    "or.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "or.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 99,
+      "baseline_active_months": 22,
+      "source_sha1": "91b29d25cbeb91319ad3d873728cc895a3e086be"
+    },
+    "or.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "or.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 2294,
+      "baseline_active_months": 32,
+      "source_sha1": "9dcc18cb61cb8b04b0cc00a18abee8c1379ef156"
+    },
+    "outdoors.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "outdoors.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 76,
+      "baseline_active_months": 27,
+      "source_sha1": "c1279b30aa24265a77407a15782aa7ab1c61b97f"
+    },
+    "outdoors.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "outdoors.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1084,
+      "baseline_active_months": 36,
+      "source_sha1": "fc056f3e9f214570efaaf47153c0aecf16be0371"
+    },
+    "parenting.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "parenting.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 51,
+      "baseline_active_months": 25,
+      "source_sha1": "d6b2c151aeca2dddd6449c24aa05996849599b34"
+    },
+    "parenting.stackexchange.com": {
+      "domain_group": "B",
+      "is_meta": false,
+      "parent_site": "parenting.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 933,
+      "baseline_active_months": 36,
+      "source_sha1": "ae3437ceb8ead60157442731c071bd66aa82047c"
+    },
+    "patents.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "patents.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 13,
+      "baseline_active_months": 11,
+      "source_sha1": "5709f010aa7d3f84326b5351192048c4d7435f53"
+    },
+    "patents.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "patents.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 770,
+      "baseline_active_months": 36,
+      "source_sha1": "f75d5f3d8f44ce45fb1e03f92e30feec3e84602f"
+    },
+    "pets.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "pets.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 46,
+      "baseline_active_months": 23,
+      "source_sha1": "ff2f7d61cf9a4ad9f2874097ba7a2df5fd66682e"
+    },
+    "pets.stackexchange.com": {
+      "domain_group": "B",
+      "is_meta": false,
+      "parent_site": "pets.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2197,
+      "baseline_active_months": 36,
+      "source_sha1": "e490dcc296e6bed60e2639ef45d78ca62949612c"
+    },
+    "philosophy.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "philosophy.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 161,
+      "baseline_active_months": 33,
+      "source_sha1": "c1d3e6a892c97712f89348407e4e75d5ef11527a"
+    },
+    "philosophy.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "philosophy.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 5314,
+      "baseline_active_months": 36,
+      "source_sha1": "65f6257c687c28e2492078005bcdf446447dfc0a"
+    },
+    "photo.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "photo.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 90,
+      "baseline_active_months": 31,
+      "source_sha1": "83462e97ea933399efe0fd184127f1c2a5d66a88"
+    },
+    "photo.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "photo.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 4176,
+      "baseline_active_months": 36,
+      "source_sha1": "d0e75e5d7e73c09e3f22cc3fd87c5293b534c892"
+    },
+    "physics.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "physics.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 673,
+      "baseline_active_months": 36,
+      "source_sha1": "f34a7c4cb3c738d622c62a7decb8c3b9102108f8"
+    },
+    "physics.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "physics.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 68967,
+      "baseline_active_months": 36,
+      "source_sha1": "19c3391409973a0818b0817719f163f918473e56"
+    },
+    "pm.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "pm.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 31,
+      "baseline_active_months": 18,
+      "source_sha1": "06c3c9438fda3958ba870663a47780cd0db91c92"
+    },
+    "pm.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "pm.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1354,
+      "baseline_active_months": 36,
+      "source_sha1": "b56204f25f45c7961338b7e0e0b10070cbd0de6c"
+    },
+    "poker.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "poker.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 12,
+      "baseline_active_months": 9,
+      "source_sha1": "62e3281eaa6e6af09cacb831787baff0e887ffe6"
+    },
+    "poker.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "poker.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 426,
+      "baseline_active_months": 36,
+      "source_sha1": "351fb464df7358c4bfa001ac1373a20689559f0c"
+    },
+    "politics.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "politics.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 420,
+      "baseline_active_months": 36,
+      "source_sha1": "d18915fe47f6cff81eab4989f9a9af6e5b6a1141"
+    },
+    "politics.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "politics.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 6224,
+      "baseline_active_months": 36,
+      "source_sha1": "b5127ad30ba1a00790dc01eade93c6ab99903cdc"
+    },
+    "portuguese.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "portuguese.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 24,
+      "baseline_active_months": 16,
+      "source_sha1": "af64d4958ca2ef3257cb151dd218e042a469801d"
+    },
+    "portuguese.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "portuguese.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 728,
+      "baseline_active_months": 36,
+      "source_sha1": "8925f9bd3cb639770dea2d2bc84c842752394fa8"
+    },
+    "proofassistants.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "proofassistants.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 0,
+      "baseline_active_months": 0,
+      "source_sha1": "98e7d414fbc8d5eed271e2e8286935e5e64d83ae"
+    },
+    "proofassistants.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "proofassistants.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 0,
+      "baseline_active_months": 0,
+      "source_sha1": "1996c77e089cf075bcf6fe11560def2f4b8bf82c"
+    },
+    "pt.meta.stackoverflow.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "pt.stackoverflow.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 398,
+      "baseline_active_months": 36,
+      "source_sha1": "d7d4fab81c0f2b1039b18f0ead0e3bbc4673c200"
+    },
+    "pt.stackoverflow.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "pt.stackoverflow.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 36512,
+      "baseline_active_months": 36,
+      "source_sha1": "d0057fe16ca81c91494637b2a6c1260e6c654ec9"
+    },
+    "puzzling.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "puzzling.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 248,
+      "baseline_active_months": 36,
+      "source_sha1": "1f9aeefef6bd1dc7ded77567f76ed0fac0025e11"
+    },
+    "puzzling.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "puzzling.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 8611,
+      "baseline_active_months": 36,
+      "source_sha1": "e058b7d70fbed54d7364ed5f6eadfc2a396be80d"
+    },
+    "quant.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "quant.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 38,
+      "baseline_active_months": 24,
+      "source_sha1": "cfa7c6555cc4abbed4ee4047a682c21f0eb10212"
+    },
+    "quant.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "quant.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 7565,
+      "baseline_active_months": 36,
+      "source_sha1": "a241602b2f1fc5aabe5f1ff4b32b3694128aa30c"
+    },
+    "quantumcomputing.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "quantumcomputing.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 62,
+      "baseline_active_months": 29,
+      "source_sha1": "ff07aab655537057a690dcff59aa13775de4a675"
+    },
+    "quantumcomputing.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "quantumcomputing.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 5419,
+      "baseline_active_months": 36,
+      "source_sha1": "f4b8f3c343a8b57de40aeba2e3a3d1bb35476feb"
+    },
+    "raspberrypi.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "raspberrypi.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 63,
+      "baseline_active_months": 29,
+      "source_sha1": "75f426a8bad035f0a9e2cf1d66866d87df7490b5"
+    },
+    "raspberrypi.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "raspberrypi.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 10969,
+      "baseline_active_months": 36,
+      "source_sha1": "be155656daca226e7bbd70ee86b3f773e041cf32"
+    },
+    "retrocomputing.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "retrocomputing.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 111,
+      "baseline_active_months": 34,
+      "source_sha1": "2586bceb28a0558fa15213b88caecf409e7d9323"
+    },
+    "retrocomputing.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "retrocomputing.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2755,
+      "baseline_active_months": 36,
+      "source_sha1": "6f3ae7040e141f8725bf04837e4fdfdf2511f4c1"
+    },
+    "reverseengineering.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "reverseengineering.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 11,
+      "baseline_active_months": 10,
+      "source_sha1": "7d8e731b3db9f4638a6e1b4b166a97d676da1a07"
+    },
+    "reverseengineering.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "reverseengineering.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2838,
+      "baseline_active_months": 36,
+      "source_sha1": "999749ef2a93fe64b1073676b2466dd08c759131"
+    },
+    "robotics.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "robotics.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 21,
+      "baseline_active_months": 15,
+      "source_sha1": "c217a8080f7f2a594fc1a7f54f88a39606362eeb"
+    },
+    "robotics.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "robotics.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 7249,
+      "baseline_active_months": 36,
+      "source_sha1": "8b6cc39dc3eeabbb04c0d02536b6ffc9b95c4bfc"
+    },
+    "rpg.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "rpg.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 636,
+      "baseline_active_months": 36,
+      "source_sha1": "84474614684565b702e0e9eb4ed18216ac226aab"
+    },
+    "rpg.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "rpg.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 13955,
+      "baseline_active_months": 36,
+      "source_sha1": "c24a4b5ab5f74a1e148e1b2f4e3aef753f069f16"
+    },
+    "ru.meta.stackoverflow.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "ru.stackoverflow.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 1304,
+      "baseline_active_months": 36,
+      "source_sha1": "81f4c7e41a6e9fd47cc98fb2241c0d18b52ba837"
+    },
+    "ru.stackoverflow.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "ru.stackoverflow.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 153990,
+      "baseline_active_months": 36,
+      "source_sha1": "32a8897c021e9c943b93f8fd70dfafb180925451"
+    },
+    "rus.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "rus.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 74,
+      "baseline_active_months": 25,
+      "source_sha1": "a658d7a30697684c6490d5573e43065748f6587b"
+    },
+    "rus.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "rus.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 5218,
+      "baseline_active_months": 36,
+      "source_sha1": "d4670c4a32d5e3a7401dada63853bd99894d5282"
+    },
+    "russian.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "russian.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 23,
+      "baseline_active_months": 18,
+      "source_sha1": "d75963f79e38f1b369fc09280d58ebef6a884290"
+    },
+    "russian.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "russian.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 996,
+      "baseline_active_months": 36,
+      "source_sha1": "6aa1ef609c3bddabf1b10c0860c824ebc2bc98d1"
+    },
+    "salesforce.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "salesforce.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 117,
+      "baseline_active_months": 31,
+      "source_sha1": "65cb414bf9c26d52fcfb7a311bba4c97b1357972"
+    },
+    "salesforce.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "salesforce.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 37622,
+      "baseline_active_months": 36,
+      "source_sha1": "c8336ef1dcc260076e14143454510b28475538c7"
+    },
+    "scicomp.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "scicomp.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 36,
+      "baseline_active_months": 21,
+      "source_sha1": "e53f796679d33e410432df042850607a1cc38da6"
+    },
+    "scicomp.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "scicomp.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2643,
+      "baseline_active_months": 36,
+      "source_sha1": "bb4932ada9eedf3a9e1fb7dd94a6e6c73aa029de"
+    },
+    "scifi.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "scifi.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 454,
+      "baseline_active_months": 36,
+      "source_sha1": "8107aa9aa94be66afc97cb05d8c35995eacbe7d7"
+    },
+    "scifi.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "scifi.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 15097,
+      "baseline_active_months": 36,
+      "source_sha1": "9d86e2073450fa755f02a90415b68dc5f1ad32bd"
+    },
+    "security.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "security.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 141,
+      "baseline_active_months": 33,
+      "source_sha1": "99bf150cd42f175a7da7e6f8676f5cfd1786f0f3"
+    },
+    "security.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "security.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 14322,
+      "baseline_active_months": 36,
+      "source_sha1": "1f1ec62c54e478061be2a35b55c7be4f397e4f75"
+    },
+    "serverfault.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "serverfault.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 42399,
+      "baseline_active_months": 36,
+      "source_sha1": "d9e7c0987f9e11c44d279aa95e1345f8563b1f81"
+    },
+    "sharepoint.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "sharepoint.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 28,
+      "baseline_active_months": 17,
+      "source_sha1": "bc9926ba4a9deb17f54a5ba62be627c737528514"
+    },
+    "sharepoint.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "sharepoint.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 14822,
+      "baseline_active_months": 36,
+      "source_sha1": "9acb9531eda0a14507d7b043970e4e3ed4c30433"
+    },
+    "sitecore.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "sitecore.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 40,
+      "baseline_active_months": 22,
+      "source_sha1": "5b14ac8537c44b2847d9b663b2d50db457e4079a"
+    },
+    "sitecore.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "sitecore.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 5080,
+      "baseline_active_months": 36,
+      "source_sha1": "87f69c52783714d77db4fb8ba9b6103a41617c1e"
+    },
+    "skeptics.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "skeptics.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 185,
+      "baseline_active_months": 36,
+      "source_sha1": "8b34f609ae2a77f4a6675a94045f911c3a899e72"
+    },
+    "skeptics.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "skeptics.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1592,
+      "baseline_active_months": 36,
+      "source_sha1": "ccabc2c3d9eaabd1ffff6071ad8ff42460051c6c"
+    },
+    "softwareengineering.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "softwareengineering.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 155,
+      "baseline_active_months": 35,
+      "source_sha1": "d10689748946a132b8c2b94701948aca2f036438"
+    },
+    "softwareengineering.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "softwareengineering.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 9159,
+      "baseline_active_months": 36,
+      "source_sha1": "164eb3ffadd794221f7be21c3b20759538be56af"
+    },
+    "softwarerecs.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "softwarerecs.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 67,
+      "baseline_active_months": 29,
+      "source_sha1": "21cbc576b4e5188776acec0746abbdac7a8399a5"
+    },
+    "softwarerecs.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "softwarerecs.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 5489,
+      "baseline_active_months": 36,
+      "source_sha1": "de85e083ce5f93598bf136c6168cc34d09ad0bc1"
+    },
+    "solana.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "solana.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 0,
+      "baseline_active_months": 0,
+      "source_sha1": "c0a45bf3325b9f4864ccc0acad10e5491ab9f712"
+    },
+    "solana.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "solana.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 0,
+      "baseline_active_months": 0,
+      "source_sha1": "ce63a10200b8fb4e35e4efcb560a4553ed2a1c8d"
+    },
+    "sound.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "sound.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 25,
+      "baseline_active_months": 16,
+      "source_sha1": "94688bad936c5afc843f330e569f639050c67e7b"
+    },
+    "sound.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "sound.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1091,
+      "baseline_active_months": 36,
+      "source_sha1": "c1b95094fb4ac2af792df44815f116868bed753c"
+    },
+    "space.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "space.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 270,
+      "baseline_active_months": 35,
+      "source_sha1": "484e74878b5a68a91d88d7f0e345b6207d946347"
+    },
+    "space.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "space.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 7295,
+      "baseline_active_months": 36,
+      "source_sha1": "00a37d4359d1bf4ed8d1d883f6ee2ae449433eaa"
+    },
+    "spanish.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "spanish.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 141,
+      "baseline_active_months": 32,
+      "source_sha1": "77a15f19eb30543b238c875979a1339234ec52d8"
+    },
+    "spanish.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "spanish.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2326,
+      "baseline_active_months": 36,
+      "source_sha1": "b07068fb9cf445cca78585f33bade7ceb95da71e"
+    },
+    "sports.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "sports.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 49,
+      "baseline_active_months": 29,
+      "source_sha1": "efc214f63703ed0edc5bad9b41d823a922e9baba"
+    },
+    "sports.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "sports.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1040,
+      "baseline_active_months": 36,
+      "source_sha1": "392caba188a51bd77762f633741935fd0b0f5d87"
+    },
+    "sqa.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "sqa.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 19,
+      "baseline_active_months": 11,
+      "source_sha1": "538bef0a3da2110c7cb508a4b019d58628d77d2a"
+    },
+    "sqa.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "sqa.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 2764,
+      "baseline_active_months": 36,
+      "source_sha1": "5ce83c6264daa482c58f9a96ce0c08c851adadf6"
+    },
+    "stackapps.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "stackapps.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 279,
+      "baseline_active_months": 36,
+      "source_sha1": "8bcdecd74388743efa9563746f3725c2fba897bc"
+    },
+    "stats.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "stats.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 237,
+      "baseline_active_months": 36,
+      "source_sha1": "3c55a91a0a8eec164398943f986318a3dc0997af"
+    },
+    "stats.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "stats.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 57929,
+      "baseline_active_months": 36,
+      "source_sha1": "fcb12269faac89a79b7979262b9ff5da98378148"
+    },
+    "stellar.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "stellar.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 9,
+      "baseline_active_months": 9,
+      "source_sha1": "dbf19a6a96208d74b9252b05875427befd3fc686"
+    },
+    "stellar.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "stellar.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 622,
+      "baseline_active_months": 36,
+      "source_sha1": "77dcb3a9c2641b2e96f5f590711233af713abd9d"
+    },
+    "substrate.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "substrate.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 0,
+      "baseline_active_months": 0,
+      "source_sha1": "f1e04791a238f60023a5413ec3c8f8265aba48ca"
+    },
+    "substrate.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "substrate.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 0,
+      "baseline_active_months": 0,
+      "source_sha1": "b3fcb60bea66841e10238bce486864c9e13422cb"
+    },
+    "superuser.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "superuser.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 85803,
+      "baseline_active_months": 36,
+      "source_sha1": "bb6ffb10cdd148dedde5a978d4efe2bd52f1d2a1"
+    },
+    "sustainability.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "sustainability.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 37,
+      "baseline_active_months": 19,
+      "source_sha1": "615cf70779f285eace42de3e4f678812fc6d4eb6"
+    },
+    "sustainability.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "sustainability.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 517,
+      "baseline_active_months": 36,
+      "source_sha1": "9f39934d41d0c6d08c096512d41f146770adce21"
+    },
+    "tex.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "tex.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 290,
+      "baseline_active_months": 35,
+      "source_sha1": "247a5ac14f83339cd10521c8d76b5f7bb18d46cf"
+    },
+    "tex.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "tex.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 61222,
+      "baseline_active_months": 36,
+      "source_sha1": "3e41b52737d3675ce8432c4a1b806423b0828d4f"
+    },
+    "tezos.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "tezos.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 26,
+      "baseline_active_months": 7,
+      "source_sha1": "1381a2ed79dec45a63c1c87c8feb20ae17debb40"
+    },
+    "tezos.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "tezos.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 1634,
+      "baseline_active_months": 36,
+      "source_sha1": "ccc5e14728092eddfe0771e3cd5b1aae2aaed078"
+    },
+    "tor.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "tor.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 20,
+      "baseline_active_months": 13,
+      "source_sha1": "a65a325a0f99c4ac998cc8a57c2ff8a9589a8bbb"
+    },
+    "tor.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "tor.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1147,
+      "baseline_active_months": 36,
+      "source_sha1": "35dc643858b589b952b69c56c6a64aff6711daf4"
+    },
+    "travel.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "travel.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 221,
+      "baseline_active_months": 36,
+      "source_sha1": "6dc6c9c50f7441efbff59a3465a3c7516c64a37c"
+    },
+    "travel.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "travel.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 10601,
+      "baseline_active_months": 36,
+      "source_sha1": "efe105ee99a6a1dbed46875bb3eaa1090100ce76"
+    },
+    "tridion.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "tridion.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 7,
+      "baseline_active_months": 6,
+      "source_sha1": "a1a290f5c3fdb482b4aad0aa41e3b36ad8a5949a"
+    },
+    "tridion.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "tridion.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 901,
+      "baseline_active_months": 36,
+      "source_sha1": "efd36c953b438cd74330737fc6a9409aee3f4e53"
+    },
+    "ukrainian.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "ukrainian.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 16,
+      "baseline_active_months": 9,
+      "source_sha1": "bd520d0b19a7ff8983c1bfc3f2aedeb1653191bd"
+    },
+    "ukrainian.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "ukrainian.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 422,
+      "baseline_active_months": 36,
+      "source_sha1": "c510fc385c5f64b9512857e71e559c3e8dceb7b4"
+    },
+    "unix.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "unix.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 260,
+      "baseline_active_months": 36,
+      "source_sha1": "c69cfbe5894f6735f2cffdf98e260df1e5fa258f"
+    },
+    "unix.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "unix.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 59494,
+      "baseline_active_months": 36,
+      "source_sha1": "628c865b7667e093f890d76f0b0bfcfcc7ce6c1a"
+    },
+    "ux.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "ux.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 62,
+      "baseline_active_months": 28,
+      "source_sha1": "4398bbc06fa5cef7971b093402d21323fad39a66"
+    },
+    "ux.stackexchange.com": {
+      "domain_group": "B",
+      "is_meta": false,
+      "parent_site": "ux.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 4283,
+      "baseline_active_months": 36,
+      "source_sha1": "5530b8ca8e1d2b8a29aac213ac4368f81faec617"
+    },
+    "vegetarianism.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "vegetarianism.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 22,
+      "baseline_active_months": 13,
+      "source_sha1": "73b368d1832f54734c4e1bcbbfffbd58b25e1d9d"
+    },
+    "vegetarianism.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "vegetarianism.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 176,
+      "baseline_active_months": 36,
+      "source_sha1": "0083110bab5dba8f80883b019443b25ab07cadc7"
+    },
+    "vi.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "vi.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 43,
+      "baseline_active_months": 23,
+      "source_sha1": "67536d068d7774890469aab1b7965dff038f4b5c"
+    },
+    "vi.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "vi.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 5270,
+      "baseline_active_months": 36,
+      "source_sha1": "b36e433e385b239aff931fdc50399f0b6988a7de"
+    },
+    "webapps.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "webapps.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 102,
+      "baseline_active_months": 32,
+      "source_sha1": "1fa59830091fe722c43448cc21ff04aa83bbfde1"
+    },
+    "webapps.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "webapps.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 6533,
+      "baseline_active_months": 36,
+      "source_sha1": "94838dee2c434edf2244b1e551c50056631d4090"
+    },
+    "webmasters.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "webmasters.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 63,
+      "baseline_active_months": 29,
+      "source_sha1": "66eb829a51f904346bf6bb99fe3fea3f28dc0538"
+    },
+    "webmasters.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "webmasters.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 5463,
+      "baseline_active_months": 36,
+      "source_sha1": "319d9534aab47cd6b2369605a42446bcbc5c9b88"
+    },
+    "windowsphone.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "windowsphone.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 6,
+      "baseline_active_months": 6,
+      "source_sha1": "18736fc60d6e202c8e432ba85ec06d73a5fea1e0"
+    },
+    "windowsphone.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "windowsphone.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "excluded_activity",
+      "baseline_questions": 45,
+      "baseline_active_months": 23,
+      "source_sha1": "b5a5b87c588b5e5d4756e6324b5d25da3ae50852"
+    },
+    "woodworking.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "woodworking.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 17,
+      "baseline_active_months": 11,
+      "source_sha1": "d1d582460184701cf070af62cb378e86bf6cc733"
+    },
+    "woodworking.stackexchange.com": {
+      "domain_group": "B",
+      "is_meta": false,
+      "parent_site": "woodworking.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 1153,
+      "baseline_active_months": 36,
+      "source_sha1": "00e34f4e9f160c7e13a2888effdafea5c82cd048"
+    },
+    "wordpress.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "wordpress.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 87,
+      "baseline_active_months": 25,
+      "source_sha1": "5289d7d547ab90b448773ca13f47560383f8235f"
+    },
+    "wordpress.stackexchange.com": {
+      "domain_group": "A",
+      "is_meta": false,
+      "parent_site": "wordpress.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 20889,
+      "baseline_active_months": 36,
+      "source_sha1": "6301e41609cf447791a48588b946a395ed53d178"
+    },
+    "workplace.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "workplace.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 343,
+      "baseline_active_months": 36,
+      "source_sha1": "1f3670005d79948cafae30e4f2ee531e945e863e"
+    },
+    "workplace.stackexchange.com": {
+      "domain_group": "B",
+      "is_meta": false,
+      "parent_site": "workplace.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 8694,
+      "baseline_active_months": 36,
+      "source_sha1": "dbc5e7540cfa432d5d120dae3f5fda47c51cb55a"
+    },
+    "worldbuilding.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "worldbuilding.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 406,
+      "baseline_active_months": 36,
+      "source_sha1": "6eb95ef4001eb16ba75538b3b0699296763756fb"
+    },
+    "worldbuilding.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "worldbuilding.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 12765,
+      "baseline_active_months": 36,
+      "source_sha1": "4a517831e917a44c3e3f0031670de03dd2e34905"
+    },
+    "writers.meta.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": true,
+      "parent_site": "writers.stackexchange.com",
+      "activity_pass": false,
+      "classification_status": "meta",
+      "baseline_questions": 238,
+      "baseline_active_months": 32,
+      "source_sha1": "d29bd5c37675ba1be0b21b14fc54193b1aa5f537"
+    },
+    "writers.stackexchange.com": {
+      "domain_group": "C",
+      "is_meta": false,
+      "parent_site": "writers.stackexchange.com",
+      "activity_pass": true,
+      "classification_status": "reviewed",
+      "baseline_questions": 3516,
+      "baseline_active_months": 36,
+      "source_sha1": "ba785baf2ec3260098c8e856400ca4632a5b4c73"
+    }
+  },
+  "window_days": 7,
+  "coverage_end_exclusive": "2024-03-01T00:00:00Z",
+  "manifest_sha256": "92ee80b1e825f6afc1781ba3377488cc3f043167601e2f3891072a46f8641e41",
+  "reviews_sha256": "b21624288d6e584e5698e4c6de0a512eeb138ec431f1f2253119bb65bda47975",
+  "frozen_at": "2026-10-01T06:31:32.980810+00:00"
+}

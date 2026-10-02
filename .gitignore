@@ -1,0 +1,27 @@
+# VM transfer repository: explicit allowlist only.
+/*
+!/.gitignore
+!/.gitattributes
+!/VM_README.md
+!/vm/
+/vm/*
+!/vm/legacy/
+/vm/legacy/*
+!/vm/legacy/README.md
+!/vm/legacy/prepare.py
+!/vm/legacy/run_site.py
+!/vm/legacy/run.scala
+!/vm/legacy/metrics.sql
+!/outputs/
+/outputs/*
+!/outputs/network/
+/outputs/network/*
+!/outputs/network/download_manifest.json
+!/outputs/network/classification_freeze.json
+!/outputs/network/monthly_metrics_audit.json
+!/tests/
+/tests/*
+!/tests/test_legacy_vm.py
+!/sql/
+/sql/*
+!/sql/site_metrics_monthly_schema.sql
